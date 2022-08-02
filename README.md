@@ -2,7 +2,7 @@
 
 Para copiar o código em HTML;
 ```
-<hmt1>
+<hmtl>
   <h1>Meu primeiro arquivo HTML</h1>
 </hmt1>
 ```
